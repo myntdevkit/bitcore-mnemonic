@@ -1,8 +1,8 @@
 {
-  "name": "bitcore-mnemonic",
-  "main": "./bitcore-mnemonic.min.js",
+  "name": "myntcore-mnemonic",
+  "main": "./myntcore-mnemonic.min.js",
   "version": "1.1.4",
-  "homepage": "https://github.com/bitpay/bitcore-mnemonic",
+  "homepage": "https://github.com/myntdevkit/myntcore-mnemonic",
   "authors": [
     "BitPay"
   ],
@@ -12,7 +12,7 @@
   ],
   "keywords": [
     "bitcoin",
-    "bitcore",
+    "myntcore",
     "btc",
     "satoshi",
     "mnemonic"
